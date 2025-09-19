@@ -7,4 +7,4 @@
 |   |   |
 |---|---|
 | ![Extract PII PoC Slides Screenshot](./packages/./extract-pii-poc/public/extract-pii-poc-slides-screenshot.png) | 2025.09.19 @ LSware |
-| Extract PII PoC | [Slides](https://huketo.github.io/extract-pii-slides/extract-pii-poc/#/1) |
+| Extract PII PoC [Draft](./packages/extract-pii-poc/samples/draft.md) | [Slides](https://huketo.github.io/extract-pii-slides/extract-pii-poc/#/1) |
