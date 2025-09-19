@@ -1,10 +1,10 @@
 {
-  "name": "extract-pii-poc-slides",
+  "name": "extract-pii-poc",
   "type": "module",
   "private": true,
   "scripts": {
     "build": "slidev build",
-    "build-base": "slidev build --out ../../dist/extract-pii-poc-slides --base /talks/extract-pii-poc-slides/",
+    "build-base": "slidev build --out ../../dist/extract-pii-poc --base /talks/extract-pii-poc/",
     "dev": "slidev  --open --remote",
     "export": "slidev export --with-clicks --per-slide --wait-until none"
   },
