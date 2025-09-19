@@ -548,7 +548,7 @@ glowSeed: 180
         absolute bottom-0 w-full bg="blue-500/20" h-60 rounded-t-full
         class="animate-name-pulse animate-iteration-count-[infinite] animate-direction-normal animate-duration-8000 animate-ease-in-out"
       ></div>
-      <!-- Visible part -->
+      <!-- Visible part "../samples"-->
       <div
         absolute top-0 w-90
         transition duration-500 ease-in-out
@@ -568,7 +568,7 @@ glowSeed: 180
           </div>
         </div>
       </div>
-      <!-- Hidden part -->
+      <!-- Hidden part "../samples"-->
       <div
         v-click="2"
         absolute bottom-0 w-90
