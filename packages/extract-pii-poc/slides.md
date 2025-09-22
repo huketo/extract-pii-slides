@@ -800,7 +800,7 @@ glowSeed: 210
   <div class="space-y-2">
     <div class="bg-green-900/20 border border-green-800/50 rounded p-3">
       <div class="text-sm font-bold text-green-400">21개 PII 추출 성공</div>
-      <div class="text-xs text-gray-400">46개 중 45.7% 검출</div>
+      <div class="text-xs text-gray-400">32개 중 65.7% 검출</div>
     </div>
     <div class="bg-blue-900/20 border border-blue-800/50 rounded p-3">
       <div class="text-sm font-bold text-blue-400">오탐율 0%</div>
