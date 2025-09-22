@@ -6,7 +6,7 @@
     "build": "slidev build",
     "build-base": "slidev build --out ../../dist/extract-pii-poc --base /extract-pii-slides/extract-pii-poc/",
     "dev": "slidev  --open --remote",
-    "export": "slidev export --with-clicks --per-slide --wait-until none"
+    "export": "slidev export --with-clicks false --per-slide --wait-until none --format pptx"
   },
   "devDependencies": {
     "@iconify-json/bi": "^1.2.4",
